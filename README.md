@@ -5,3 +5,5 @@
 1.  Run the test
 
 2.  Check the results
+
+3.  Submit test report
